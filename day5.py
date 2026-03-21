@@ -20,11 +20,11 @@
 # 
 # 
 
-for i in range(5)   :
-    for j in range(4-i):
-        print("  ",end="")
+# for i in range(5)   :
+#     for j in range(4-i):
+#         print("  ",end="")
 
-    for k in range(1+i):
-        print("* ",end="")
+#     for k in range(1+i):
+#         print("* ",end="")
 
-    print()    
+#     print()    
