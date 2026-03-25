@@ -66,17 +66,17 @@
 
 
 
-str="abhishek gurjar";
-# output = AG
+# str="abhishek gurjar";
+# # output = AG
 
-# get first character of a string that is first world character
-# find the space and get next character
-world="";
-for i in range(len(str)):
-    if i==0:
-        world+=str[i];
+# # get first character of a string that is first world character
+# # find the space and get next character
+# world="";
+# for i in range(len(str)):
+#     if i==0:
+#         world+=str[i];
 
-    if str[i]==" ":
-        world+=str[i+1]
+#     if str[i]==" ":
+#         world+=str[i+1]
 
-print(world.upper())        
+# print(world.upper())        
